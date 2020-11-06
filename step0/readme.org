@@ -1,4 +1,12 @@
 
+THIS describes the code used in 2015.
+However, as of this writing (11-5-2020), the code does not recreate the files.
+
+Currently, it is not felt to be useful to investigate this discrepancy.
+Rather, we take the pages2.txt file as our initial point for further
+work.
+
+
 Download Whitney's Grammar from wikisource, using the API.
 baseurl = https://en.wikisource.org/w/api.php
 sample parameters:
