@@ -1,0 +1,89 @@
+
+Download Whitney's Grammar from wikisource, using the API.
+baseurl = https://en.wikisource.org/w/api.php
+sample parameters:
+ = format=json&action=query&prop=revisions&rvprop=content&
+titles=Page:Sanskrit_Grammar_by_Whitney_p1.djvu/310
+
+
+* Get a list of the pages
+python pagelist.py <psoffset> <pslimit> <output-file>
+There are about 580 pages.  To get them one at a time by above 
+would be inefficient.
+
+It is possible to query for multiple pages, using a 'titles' parameter like
+Page:Sanskrit_Grammar_by_Whitney_p1.djvu/310|Page:Sanskrit_Grammar_by_Whitney_p1.djvu/311
+
+However, the 'pageids' parameter is an alternate to 'titles', and the 
+parameter is a sequence of 6 or so digits.  
+
+Before using this, it is necessary to get the pageids for all the pages.
+
+Sample parameter list:
+action=query&list=prefixsearch&pssearch=Page:Sanskrit_Grammar_by_Whitney_p1.djvu&psoffset=10&pslimit=20
+
+action=query
+list=prefixsearch
+pssearch=Page:Sanskrit_Grammar_by_Whitney_p1.djvu
+psoffset=10
+pslimit=20
+
+Do this iteratively, starting with psoffset=1. Use a pslimit of 20
+
+
+Write all the information to a file.
+
+python pagelist.py 0 10 data/pagelists/001-010.txt
+python pagelist.py 10 40 data/pagelists/011-050.txt
+python pagelist.py 50 50 data/pagelists/051-100.txt
+
+python pagelist.py 100 50 data/pagelists/101-150.txt
+python pagelist.py 150 50 2ata/pagelists/151-200.txt
+
+python pagelist.py 200 50 data/pagelists/201-250.txt
+python pagelist.py 250 50 data/pagelists/251-300.txt
+
+python pagelist.py 300 50 data/pagelists/301-350.txt
+python pagelist.py 350 50 data/pagelists/351-400.txt
+
+python pagelist.py 400 50 data/pagelists/401-450.txt
+python pagelist.py 450 50 data/pagelists/451-500.txt
+
+python pagelist.py 500 50 data/pagelists/501-550.txt
+python pagelist.py 550 50 data/pagelists/551-600.txt
+
+* pagelist2.txt
+Read all the files in data/pagelists, 
+collect title and pageid list, sort, and print to pagelist2.txt
+python pagelist2.py data/pagelists pagelist2.txt
+Sample line:
+Page:Sanskrit Grammar by Whitney p1.djvu/95,235459
+
+last page is 584
+* pages1/xxx-yyy.txt retrieve pages from wikisource,
+
+python pages1.py  n1 n2 pagelist2.txt data/pages1/{n1}-{n2}.txt
+python pages1.py 001 050 pagelist2.txt data/pages1/001-050.txt
+
+python pages1.py 051 100 pagelist2.txt data/pages1/051-100.txt
+python pages1.py 101 150 pagelist2.txt data/pages1/101-150.txt
+python pages1.py 151 200 pagelist2.txt data/pages1/151-200.txt
+python pages1.py 201 250 pagelist2.txt data/pages1/201-250.txt
+python pages1.py 251 300 pagelist2.txt data/pages1/251-300.txt
+python pages1.py 301 350 pagelist2.txt data/pages1/301-350.txt
+python pages1.py 351 400 pagelist2.txt data/pages1/351-400.txt
+python pages1.py 401 450 pagelist2.txt data/pages1/401-450.txt
+python pages1.py 451 500 pagelist2.txt data/pages1/451-500.txt
+python pages1.py 501 550 pagelist2.txt data/pages1/501-550.txt
+python pages1.py 551 584 pagelist2.txt data/pages1/551-584.txt
+
+* pages2
+python pages2.py data/pages1 pages2.txt
+
+* pages1_es
+python parse_es1.py pages1/001-050.txt pages1_es/001-050.txt1
+output is appropriate for bulk import into elasticsearch.
+
+ a = {"index" :{ "_index" : "test-index" , "_type":"wg" , "_id" : scanpagenum}}
+ b = {"page":scanpagenum , "content":content}
+
