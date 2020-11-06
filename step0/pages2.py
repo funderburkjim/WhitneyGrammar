@@ -10,7 +10,7 @@ import json
 def pages2(directory,fileout):
  pagedata = {} 
  for filename in os.listdir(directory):
-  print filename
+  print (filename)
   file1 = "%s/%s" %(directory,filename)
   with codecs.open(file1,"r") as f:
    data = json.load(f)
@@ -28,7 +28,7 @@ def pages2(directory,fileout):
    content = latest['*']
    m = re.search('([0-9]+)$',title)  # ...djvu/<number>
    if not m:
-    print "ERROR 1",title
+    print("ERROR 1",title)
     exit(1)
    key = int(m.group(1))
    pagedatum = (pageid,title,content)
@@ -39,7 +39,7 @@ def pages2(directory,fileout):
   (pageid,title,content) = pagedata[key]
   f.write('\n[%s,%s]\n' % (pageid,title))
   f.write('%s\n'%content)
- print len(pagedata),"records written to",fileout
+ print(len(pagedata),"records written to",fileout)
  f.close()
 
 if __name__ == "__main__":
