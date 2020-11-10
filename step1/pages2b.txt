@@ -3094,7 +3094,7 @@ b. A causative verb sometimes takes an instrumental instead of an accusative as 
 
 <section n="283.,095,IV"/> Many instrumental constructions are such as call in translation for other prepositions than *with* or *by*; yet the true instrumental relation is usually to be traced, especially if the etymological sense of the words be carefully considered.
 
-a. More anomalously, however, the instrumental is used interchangeably with the ablative with words signifying separation: thus, **vatsāír víyutāḥ** (RV.) *separated from their calves*; **mā́ ’hám ātmánā ví rādhiṣi (AV.) *let me not be severed from the breath of life*; **sa tayā vyayujyata** (MBh.) *he was parted from her*; **pāpmánāi ’vāí ’naṁ ví punanti** (MS.) *they cleanse him from evil* (compare English *parted with*). The same meaning may be given to the case even when accompanied by **saha** *with*: thus, **bhartrā saha viyogaḥ** (MBh.) *separation from her husband*.
+a. More anomalously, however, the instrumental is used interchangeably with the ablative with words signifying separation: thus, **vatsāír víyutāḥ** (RV.) *separated from their calves*; **mā́ ’hám ātmánā ví rādhiṣi** (AV.) *let me not be severed from the breath of life*; **sa tayā vyayujyata** (MBh.) *he was parted from her*; **pāpmánāi ’vāí ’naṁ ví punanti** (MS.) *they cleanse him from evil* (compare English *parted with*). The same meaning may be given to the case even when accompanied by **saha** *with*: thus, **bhartrā saha viyogaḥ** (MBh.) *separation from her husband*.
 
 <section n="284.,095,IV"/> The prepositions taking the instrumental (1127) are those signifying *with* and the like: thus, **saha**, with the adverbial words containing **sa** as an element, as **sākam**, **sārdham**, **saratham**;—and, in general, a word compounded with **sa**, **sam**, **saha** takes an instrumental as its regular and natural complement. But also the preposition **vinā** *without* takes sometimes the instrumental (cf. 283 a).
 
@@ -3202,7 +3202,7 @@ c. In part, by a construction similar to that of verbs which take a genitive obj
 
 a. A possessive genitive of the recipient, by pregnant construction, with verbs signifying *give, impart, communicate*, and the like: thus, **varān pradāyā ’sya** (MBh.) *having bestowed gifts upon him* (*made them his by bestowal*); **rājño niveditam** (H.) *it was made known to the king* (*made his by knowledge*); **yad anyasya pratijñāya punar anyasya dīyate** (M.) *that after being promised to one she is given to another*. This construction, by which the genitive becomes substitute for a dative or locative, abounds in the later language, and is extended sometimes to problematic and difficult cases.
 
-b. A (in most cases, probably) partitive genitive, as a less complete or less absolute object than an accusative: thus, with verbs meaning *partake* (*eat, drink*, etc.), as **píba sutásya** (AV.) *drink* (*of*) *the soma*; **mádhvaḥ pāyaya** (RV.) *cause to drink the sweet drought*;—with verbs meaning *impart* (of the thing impearted) etc., as dadāta no amṛ́tasya** (RV.) *bestow upon us immortality;—with verbs meaning *enjoy, be satisfied* or *filled*
+b. A (in most cases, probably) partitive genitive, as a less complete or less absolute object than an accusative: thus, with verbs meaning *partake* (*eat, drink*, etc.), as **píba sutásya** (AV.) *drink* (*of*) *the soma*; **mádhvaḥ pāyaya** (RV.) *cause to drink the sweet drought*;—with verbs meaning *impart* (of the thing imparted) etc., as **dadāta no amṛ́tasya** (RV.) *bestow upon us immortality* ;—with verbs meaning *enjoy, be satisfied* or *filled*
 
 
 [Page=100 djvu=128]
@@ -3215,7 +3215,7 @@ c. A genitive of more doubtful character, with verbs meaning *rule* or *have aut
 
 d. A genitive, instead of an ablative, is sometimes found used with a verb of receiving of any kind (hearing included), and with one of fearing: thus, **yo rājñaḥ pratigṛhṇāti lubdhasya** (M.) *whoever accepts a gift from a greedy king*; **çṛṇu me** (MBh.) *learn from me*; **bibhīmas tava** (MBh.) *we are afraid of thee*.
 
-<section n="298.,100,IV"/> A genitive in its usual possessive sense is often found as predicate, and not seldom with the copula omitted: thus, **yáthā́ ’so máma kévalaḥ** (AV.) *that thou mayest be wholly mine*; **sarvāḥ sampattayas tasya saṁtuṣṭaṁ yasya mānasam<tt? (H.) *all good fortunes are his who has a contented mind*;—as objective predicate, **bhartuḥ putraṁ vijānanti** (M.) *they recognize a son as the husband's*.
+<section n="298.,100,IV"/> A genitive in its usual possessive sense is often found as predicate, and not seldom with the copula omitted: thus, **yáthā́ ’so máma kévalaḥ** (AV.) *that thou mayest be wholly mine*; **sarvāḥ sampattayas tasya saṁtuṣṭaṁ yasya mānasam** (H.) *all good fortunes are his who has a contented mind*;—as objective predicate, **bhartuḥ putraṁ vijānanti** (M.) *they recognize a son as the husband's*.
 
 <section n="299.,100,IV"/> a. The prepositional constructions of the genitive (1130) are for the most part with such prepositions as are really noun-cases and have the government of such: thus, **agre**, **arthe**, **kṛte**, and the like; also with other prepositional words which, in the general looseness of use of the genitive, have become assimilated to these. A few more real prepositions take the genitive: either usually, like **upári** *above*, or occasionally, like **adhás**, **antár**, **áti**.
 
@@ -5476,7 +5476,7 @@ b. Exceptional instances, in which a weak case has the tone on the stem, occur a
 <th>Ab. G.
 </th><td>वाचस्<br/><b>vācás</b>
 </td><td>पदस्<br/><b>padás</b>
-</td><td>मरुतस्<br/>**marútas
+</td><td>मरुतस्<br/><b>marútas</b>
 </td><td>त्रिवृतस्<br/><b>trivṛ́tas</b>
 </td></tr>
 <tr>
@@ -8497,7 +8497,7 @@ b. The primary middle ending, according to the analogy of the other persons, wou
 
 b. In the middle voice, the primary ending, both present and perfect, is **se**. The secondary stands in no apparent relation to this, being **thās**; and in the imperative is found only **sva** (or **svā**: 248 c), which in the Veda is not seldom to be read as **sua**. In the older language, **se** is sometimes strengthened to **sāi** in the subjunctive. 
 
-<section n="545.,205,VIII"/> Third person. a. The active primary ending is **ti**; the secondary, tt>t**; as to the loss of the latter after a final radical consonant, see below, 555. But in the imperative appears instead the peculiar ending **tu**; and in the perfect no characteristic consonant is present, and the third person has the same ending as the first. 
+<section n="545.,205,VIII"/> Third person. a. The active primary ending is **ti**; the secondary, **t**; as to the loss of the latter after a final radical consonant, see below, 555. But in the imperative appears instead the peculiar ending **tu**; and in the perfect no characteristic consonant is present, and the third person has the same ending as the first. 
 
 b. The primary middle ending is **te**, with **ta** as corresponding secondary. In the older language, **te** is often strengthened to **tāi** in
 
@@ -9804,7 +9804,7 @@ c. The **u** of **hu** (like that of the class-signs **nu** and **u**: see below
 
 <section n="648.,244,IX"/> It is not possible at present to draw a distinct line between those subjunctive forms of the older language which should be reckoned as belonging to the present-system and those which should be assigned to the perfect — or even, in some cases, to the reduplicated aorist and intensive. Here will be noticed only those which most clearly belong to this class; the more doubtful cases will be treated under the perfect-system. Except in first persons (which continue in use as "imperatives" down to the later language), subjunctives from roots having unmistakably a reduplicated present-system are of far from frequent occurrence. 
 
-<section n="649.,244,IX"/> The subjunctive mode-stem is formed in the usual manner, with the mode-sign **a** and **guṇa** of the root-vowel, if this is capable of such strengthening. The evidence of the few accented forms met with indicates that the accent is laid in accordance with that of the strong indicative forms: thus, from √**hu**, the stem would be **juháva**; from √**bhṛ**, it would be **bíbhara** (but **bibhára** later). Before the mode-sign, final radical **ā** would be, in accordance with analogies elsewhere, dropped: thus, **dáda** from √**dā**, dádha** from √**dhā** (all the forms actually occurring would be derivable from the secondary roots **dad** and **dadh**). 
+<section n="649.,244,IX"/> The subjunctive mode-stem is formed in the usual manner, with the mode-sign **a** and **guṇa** of the root-vowel, if this is capable of such strengthening. The evidence of the few accented forms met with indicates that the accent is laid in accordance with that of the strong indicative forms: thus, from √**hu**, the stem would be **juháva**; from √**bhṛ**, it would be **bíbhara** (but **bibhára** later). Before the mode-sign, final radical **ā** would be, in accordance with analogies elsewhere, dropped: thus, **dáda** from √**dā**, **dádha** from √**dhā** (all the forms actually occurring would be derivable from the secondary roots **dad** and **dadh**). 
 
 <section n="650.,244,IX"/> Instead of giving a theoretically complete scheme of inflection, it will be better to note all the examples quotable from the older language (accented when found so occurring). 
 
@@ -11898,7 +11898,7 @@ e. As example of the inflection of a root ending in आ **ā**, we may take द�
 <th> </th><th>s.</th><th> d.</th><th> p.</th><th> s.</th><th> d.</th><th> p.
 </th></tr>
 <tr>
-<td>1</td><td>ददौ<br/><b>dadāú</b>  </td><td>ददिव<br/><b>dadivá</b> </td><td>ददिम<br/><b>dadimá</b> </td><td>ददे<br/><b>dadé</b> </td><td>ददिवहे<br/>vdadiváhe<b> </b></td><td>ददिमहे<br/>dadimáhe**
+<td>1</td><td>ददौ<br/><b>dadāú</b>  </td><td>ददिव<br/><b>dadivá</b> </td><td>ददिम<br/><b>dadimá</b> </td><td>ददे<br/><b>dadé</b> </td><td>ददिवहे<br/>vdadiváhe<b> </b></td><td>ददिमहे<br/><b>dadimáhe</b>
 </td></tr>
 <tr>
 <td>2</td><td>ददाथ, ददिथ<br/><b>dadā́tha, dadithá</b> </td><td>ददथुस्<br/><b>dadáthus</b> </td><td>दद<br/><b>dadá</b> </td><td>ददिषे<br/><b>dadiṣé</b> </td><td>ददाथे<br/><b>dadā́the</b> </td><td>ददिध्वे<br/><b>dadidhvé</b>
@@ -12112,7 +12112,7 @@ a. with secondary endings, active: 2d sing., **papráthas, cākánas, māmáhas,
 
 b. with primary endings, active: here seem to belong only **dadhárṣati** and **vavártati**: compare the formation with different accent below, 811 a. 
 
-c. of middle forms occur only the 3d sing., **tatápate, çaçámate, yuyójate, jujóṣate** (SV.; RV. has **jújoṣate<tt/>); and the 3d pl. **cākánanta, tatánanta** (and perhaps two or three others: below, 811 b, end).
+c. of middle forms occur only the 3d sing., **tatápate, çaçámate, yuyójate, jujóṣate** (SV.; RV. has **jújoṣate**); and the 3d pl. **cākánanta, tatánanta** (and perhaps two or three others: below, 811 b, end).
 
 <section n="811.,293,X"/> But not a few subjunctives of other formation occur; thus: 
 
@@ -12126,7 +12126,7 @@ d. As to forms with double mode-sign, or transfers to an **a**-conjugation, see 
 
 <section n="812.,293,X"/> Examples of the regular optative formation are: 
 
-a. In active: 1st sing., **ānaçyām, jagamyām, papṛcyām, riricyām**; 2d sing., **vavṛtyās, viviçyās, çuçrūyā́s, babhūyās**; 3d sing., jagamyāt, vavṛtyāt, tutujyā́t, babhūyā́t**; 2d du., **jagmyātam, çuçrūyā́tam**; 1st pl., **sāsahyāma, vavṛtyāma, çūçuyāma**; 3d pl., **tatanyus, vavṛjyús, vavṛtyus**. The forms are quite numerous.
+a. In active: 1st sing., **ānaçyām, jagamyām, papṛcyām, riricyām**; 2d sing., **vavṛtyās, viviçyās, çuçrūyā́s, babhūyās**; 3d sing., **jagamyāt, vavṛtyāt, tutujyā́t, babhūyā́t**; 2d du., **jagmyātam, çuçrūyā́tam**; 1st pl., **sāsahyāma, vavṛtyāma, çūçuyāma**; 3d pl., **tatanyus, vavṛjyús, vavṛtyus**. The forms are quite numerous.
 
 
 [Page=294 djvu=322]
@@ -12732,7 +12732,7 @@ sibilant aorist we may take the roots नी **nī** *lead*, and छिद् **
 <td>1</td><td>अनैषम्<br/> <b>ánāiṣam</b> </td><td>अनैष्व<br/> <b>ánāiṣva</b> </td><td>अनैष्म<br/> <b>ánāiṣma</b> </td><td>अनेषि<br/> <b>áneṣi</b> </td><td>अनेष्वहि<br/> <b>áneṣvahi</b> </td><td>अनेष्महि<br/> <b>áneṣmahi</b>
 </td></tr>
 <tr>
-<td>2</td><td>अनैषीस्<br/> <b>ánāiṣīs</b> </td><td>अनैष्टम्<br/> <b>ánāiṣṭam</b> </td><td>अनैष्ट<br/> <b>ánāiṣṭa</b> </td><td>अनेष्टास्<br/> <b></b>áneṣṭhās<b> </b></td><td>अनेषाथाम्<br/> áneṣāthām<b> </b></td><td>अनेढ्वम्<br/> áneḍhvam**
+<td>2</td><td>अनैषीस्<br/> <b>ánāiṣīs</b> </td><td>अनैष्टम्<br/> <b>ánāiṣṭam</b> </td><td>अनैष्ट<br/> <b>ánāiṣṭa</b> </td><td>अनेष्टास्<br/> <b></b>áneṣṭhās<b> </b></td><td>अनेषाथाम्<br/> áneṣāthām<b> </b></td><td>अनेढ्वम्<br/><b>áneḍhvam</b>
 </td></tr>
 <tr>
 <td>3</td><td>अनैषीत्<br/> <b>ánāiṣīt</b> </td><td>अनैष्टाम्<br/> <b>ánāiṣṭām</b> </td><td>अनैषुस्<br/> <b>ánāiṣus</b> </td><td>अनेष्ट<br/> <b>áneṣṭa</b> </td><td>अनेषाताम्<br/> <b>áneṣātām</b> </td><td>अनेषत<br/> <b>áneṣata</b>
@@ -14834,7 +14834,7 @@ This formation is to be regarded as purely fictitious.
 
 
 a. It has been mentioned above that RV. and AV. contain only two 
-examples each of the **s**-future, and none of the periphrastic. The former begin to appear in the Brāhmaṇas more numerously, but still sparingly, with participles, and conditional (only **adhārayiṣyat** ÇB.; **alāpayiṣyathās** ChU.); of the latter, ÇB. affords two instances (**pārayitā́smi** and **janayitā́si**). Examples of both formations are quotable from the later language (including the middle form **darçayitāhev: 947 c).
+examples each of the **s**-future, and none of the periphrastic. The former begin to appear in the Brāhmaṇas more numerously, but still sparingly, with participles, and conditional (only **adhārayiṣyat** ÇB.; **alāpayiṣyathās** ChU.); of the latter, ÇB. affords two instances (**pārayitā́smi** and **janayitā́si**). Examples of both formations are quotable from the later language (including the middle form **darçayitāhe**: 947 c).
 
 <section n="1051.,385,XIV"/> Verbal Nouns and Adjectives. These are made in two different ways: either 1. from the full causative stem (in the same manner as the futures, just described); or 2. from the causatively strengthened root-form (with loss of the causative-sign).
 
@@ -17646,14 +17646,14 @@ a. Thus, **ukthaçaṅsín** *psalm-singing*, **vratacārín** *vow-performing*,
 
 <section n="1276.,493,XVIII"/> There is a group of compounds with derivatives in **i**, having the accent on the penult or radical syllable.
 
-a. Thus, **pathirákṣi** *road-protecting*, **havirmáthi** *sacrifice-disturbing*, **ātmadū́ṣi** *soul-harming*, **pathiṣádi** *sitting in the path*, **sahobhári** *{{hws|strength|strength-bearing}}*
+a. Thus, **pathirákṣi** *road-protecting*, **havirmáthi** *sacrifice-disturbing*, **ātmadū́ṣi** *soul-harming*, **pathiṣádi** *sitting in the path*, **sahobhári** *{{hws|strength|strength-bearing}}*,
 
 
 [Page=494 djvu=522]
 
 
 
-*{{hwe|bearing|strength-bearing}}*, **vasuváni** *winning good-things*, **dhanasáni** *gaining wealth*, **manomúṣi** *mind-stealing*, **phalagráhi** *setting fruit;* and, from reduplicated root, **urucákri** *making room*. Compounds with -**sáni** and -**váni** are especially frequent in Veda and Brāhmaṇa; as independent words, nouns, these are accented **saní** and **vaní**. In many cases, the words are not found in independent use. Combinations with prefixes do not occur in sufficient numbers to establish a distinct rule, but they appear to be oftenest accented on the suffix (1155 f).
+{{hwe|bearing|strength-bearing}} **vasuváni** *winning good-things*, **dhanasáni** *gaining wealth*, **manomúṣi** *mind-stealing*, **phalagráhi** *setting fruit;* and, from reduplicated root, **urucákri** *making room*. Compounds with -**sáni** and -**váni** are especially frequent in Veda and Brāhmaṇa; as independent words, nouns, these are accented **saní** and **vaní**. In many cases, the words are not found in independent use. Combinations with prefixes do not occur in sufficient numbers to establish a distinct rule, but they appear to be oftenest accented on the suffix (1155 f).
 
 b. From √**han** are made in composition -**ghni** and -**ghnī**, with accent on the ending: thus, **sahasraghní, ahighnī́, çvaghnī́**; -**dhi** from √**dhā**, (1155 g) has the accent in its numerous compounds: thus, **iṣudhí, garbhadhí, pucchadhí**.
 
@@ -21071,7 +21071,7 @@ dependent compounds, 1247 d–f, 1263, 1264–78; noun, 1264; adjective, 1265; t
 
 
 
-**1274; **in**, 1275; **i**, 1276; **van, man**, etc., 1277, 1278; dep. comp. in possessive use, 1296.
+1274; **in**, 1275; **i**, 1276; **van, man**, etc., 1277, 1278; dep. comp. in possessive use, 1296.
 
 derivation of adverbs, 1097–1109; of declinable stems, 1136–1245: in general, 1136–42; primary, 1143–1201; secondary, 1202–45.
 
@@ -21206,7 +21206,7 @@ indefinite pronouns, 513 c; indef. use of interrogative and relative pronouns, 5
 
 
 
-**
+
 infinitives, 538, 968–88; later, 968, 987; earlier, 969–79; uses, 980–8; relation to ordinary verbal nouns, 969, 970 l.
 
 inseparable prefixes, 1121; in descriptive composition, 1283 ff., 1288; in possessive, 1304.
