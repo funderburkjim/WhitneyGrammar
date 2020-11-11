@@ -65,6 +65,9 @@ python pages2b.py pages2a.txt  tables pages2b.txt
 
 31 89   58
 
-
+changes for tables 1-3  (table of contents)
 {{TOC .*?|.*?|.*?|\(.*?\)}} -> \1
 {{sc|\(.*?\)}}  -> <span style="font-variant:small-caps;">\1</span>
+
+## pages2c.html
+python pages2c.py pages2b.txt pages2c.html
