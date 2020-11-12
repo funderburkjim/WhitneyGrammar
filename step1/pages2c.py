@@ -199,6 +199,11 @@ li a {
   color: black;
   width:380px;
 }
+p,section {
+ max-width:600px;
+ text-align:justify;
+ margin-right:10px;
+}
 
 </style>
 </head>
